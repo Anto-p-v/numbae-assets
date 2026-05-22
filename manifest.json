@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "characters": {
+    "sakura": {
+      "id": "sakura",
+      "name": "Sakura",
+      "version": 1,
+      "isPremium": false,
+      "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/sakura/your_turn_1.mp4",
+      "totalSize": 1526201,
+      "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/sakura/",
+      "files": {
+        "your_turn": ["your_turn_1.mp4"],
+        "my_turn": ["my_turn_1.mp4", "my_turn_2.mp4"],
+        "higher": ["higher_1.mp4", "higher_2.mp4"],
+        "lower": ["lower_1.mp4", "lower_2.mp4"],
+        "player_wins": ["player_wins_1.mp4", "player_wins_2.mp4"],
+        "thinking": ["system_start_1.mp4"],
+        "system_wins": ["system_wins_1.mp4"],
+        "result_lose": ["system_wins_1.mp4"]
+      }
+    }
+  }
+}
