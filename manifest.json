@@ -1,24 +1,33 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "characters": {
-    "sakura": {
-      "id": "sakura",
-      "name": "Sakura",
+    "ashley": {
+      "id": "ashley",
+      "name": "Ashley",
       "version": 1,
       "isPremium": false,
-      "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/sakura/your_turn_1.mp4",
-      "totalSize": 1526201,
-      "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/sakura/",
+      "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/ashley/still_1.mp4",
+      "totalSize": 14583922,
+      "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/ashley/",
       "files": {
-        "your_turn": ["your_turn_1.mp4"],
-        "my_turn": ["my_turn_1.mp4", "my_turn_2.mp4"],
+        "still": ["still_1.mp4"],
         "higher": ["higher_1.mp4", "higher_2.mp4"],
-        "lower": ["lower_1.mp4", "lower_2.mp4"],
-        "player_wins": ["player_wins_1.mp4", "player_wins_2.mp4"],
-        "thinking": ["system_start_1.mp4"],
-        "system_wins": ["system_wins_1.mp4"],
-        "result_lose": ["system_wins_1.mp4"]
+        "lower": ["lower_1.mp4", "lower_2.mp4", "lower_3.mp4"],
+        "your_turn": ["your_turn_1.mp4", "your_turn_2.mp4", "your_turn_3.mp4"],
+        "system_turn": ["system_turn_1.mp4"],
+        "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
+        "system_win": ["system_win_1.mp4", "system_win_2.mp4"]
       }
+    },
+    "jake": {
+      "id": "jake",
+      "name": "Jake",
+      "version": 1,
+      "isPremium": true,
+      "previewUrl": "",
+      "totalSize": 0,
+      "baseUrl": "",
+      "files": {}
     }
   }
 }
