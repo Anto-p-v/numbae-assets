@@ -23,11 +23,19 @@
       "id": "jake",
       "name": "Jake",
       "version": 1,
-      "isPremium": true,
-      "previewUrl": "",
-      "totalSize": 0,
-      "baseUrl": "",
-      "files": {}
+      "isPremium": false,
+      "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/jake/still_1.mp4",
+      "totalSize": 17656490,
+      "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/jake/",
+      "files": {
+        "still": ["still_1.mp4"],
+        "higher": ["higher_1.mp4", "higher_2.mp4", "higher_3.mp4"],
+        "lower": ["lower_1.mp4", "lower_2.mp4", "lower_3.mp4"],
+        "your_turn": ["your_turn_1.mp4", "your_turn_2.mp4", "your_turn_3.mp4"],
+        "system_turn": ["system_turn_1.mp4", "system_turn_2.mp4", "system_turn_3.mp4"],
+        "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
+        "system_win": ["system_win_1.mp4", "system_win_2.mp4", "system_win_3.mp4"]
+      }
     }
   }
 }
