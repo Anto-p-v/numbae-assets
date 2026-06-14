@@ -4,6 +4,18 @@
     "ashley": {
       "id": "ashley",
       "name": "Ashley",
+      "age": 27,
+      "tagline": "I'm a total tease �",
+      "photos": ["profile_1.jpg", "profile_2.jpg", "profile_3.jpg", "profile_4.jpg", "profile_5.jpg"],
+      "vitals": { "height": "5'8\"", "location": "Brooklyn, NY", "education": "NYU",  
+                "drinking": "Socially", "smoking": "Non-smoker", "relationship":    
+  "Monogamy",
+                "children": "Want someday", "gender": "Woman", "orientation":       
+  "Straight" },
+      "prompts": [ { "q": "The way to win me over", "a": "Beat me at my own game 😏"  
+      }, { "q": "The way to win me over", "a": "Beat me at my own game 😏"  
+      }, { "q": "The way to win me over", "a": "Beat me at my own game 😏"  
+      }],
       "version": 1,
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/ashley/still_1.mp4",
@@ -22,6 +34,7 @@
     "jake": {
       "id": "jake",
       "name": "Jake",
+      "age": 24,
       "version": 1,
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/jake/still_1.mp4",
