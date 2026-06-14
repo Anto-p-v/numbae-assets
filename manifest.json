@@ -4,18 +4,7 @@
     "ashley": {
       "id": "ashley",
       "name": "Ashley",
-      "age": 27,
-      "tagline": "I'm a total tease",
-      "photos": ["profile_1.jpg", "profile_2.jpg", "profile_3.jpg", "profile_4.jpg", "profile_5.jpg"],
-      "vitals": { "height": "5'8\"", "location": "Brooklyn, NY", "education": "NYU",  
-                "drinking": "Socially", "smoking": "Non-smoker", "relationship":    
-  "Monogamy",
-                "children": "Want someday", "gender": "Woman", "orientation":       
-  "Straight" },
-      "prompts": [ { "q": "The way to win me over", "a": "Beat me at my own game 😏"  
-      }, { "q": "The way to win me over", "a": "Beat me at my own game 😏"  
-      }, { "q": "The way to win me over", "a": "Beat me at my own game 😏"  
-      }],
+      "minAge": 18,
       "version": 1,
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/ashley/still_1.mp4",
@@ -29,6 +18,27 @@
         "system_turn": ["system_turn_1.mp4"],
         "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
         "system_win": ["system_win_1.mp4", "system_win_2.mp4"]
+      },
+      "profile": {
+        "age": 27,
+        "tagline": "I'm a total tease 😏",
+        "photos": ["profile_1.webp", "profile_2.webp", "profile_3.webp", "profile_4.webp", "profile_5.webp"],
+        "vitals": {
+          "height": "5'8\"",
+          "location": "Brooklyn, NY",
+          "education": "NYU",
+          "drinking": "Socially",
+          "smoking": "Non-smoker",
+          "relationship": "Monogamy",
+          "children": "Want someday",
+          "gender": "Woman",
+          "orientation": "Straight"
+        },
+        "prompts": [
+          { "q": "The way to win me over", "a": "Beat me at my own game 😏" },
+          { "q": "My simple pleasures", "a": "Lo-fi, ramen, and a 2am rematch" },
+          { "q": "We'll get along if", "a": "You can lose gracefully" }
+        ]
       }
     },
     "jake": {
