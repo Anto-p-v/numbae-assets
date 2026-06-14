@@ -5,7 +5,7 @@
       "id": "ashley",
       "name": "Ashley",
       "age": 27,
-      "tagline": "I'm a total tease �",
+      "tagline": "I'm a total tease",
       "photos": ["profile_1.jpg", "profile_2.jpg", "profile_3.jpg", "profile_4.jpg", "profile_5.jpg"],
       "vitals": { "height": "5'8\"", "location": "Brooklyn, NY", "education": "NYU",  
                 "drinking": "Socially", "smoking": "Non-smoker", "relationship":    
