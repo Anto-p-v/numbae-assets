@@ -89,9 +89,10 @@
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/reenu/still_1.mp4",
       "totalSize": 16093303,
+      "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/reenu/",
       "profile": {
         "age": 24,
-        "tagline": "I'm not a bitch, I'm a siren",
+        "tagline": "we can be little touchy touchyy",
         "photos": ["profile_1.webp", "profile_2.webp", "profile_3.webp", "profile_4.webp", "profile_5.webp"],
         "vitals": {
           "height": "5'4\"",
