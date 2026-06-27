@@ -58,6 +58,55 @@
         "system_turn": ["system_turn_1.mp4", "system_turn_2.mp4", "system_turn_3.mp4"],
         "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
         "system_win": ["system_win_1.mp4", "system_win_2.mp4", "system_win_3.mp4"]
+      },
+      "profile": {
+        "age": 24,
+        "tagline": "looking for a FWB",
+        "photos": ["profile_1.webp", "profile_2.webp", "profile_3.webp", "profile_4.webp", "profile_5.webp"],
+        "vitals": {
+          "height": "6'0\"",
+          "location": "California, USA",
+          "education": "B.A. in Economics",
+          "drinking": "Occasionally",
+          "smoking": "Yes",
+          "relationship": "Casual",
+          "children": "No",
+          "gender": "Man",
+          "orientation": "Straight"
+        },
+        "prompts": [
+          { "q": "My typical Sunday", "a": "Brunch and a nap" },
+          { "q": "The one thing you should know about me is", "a": "That I'm a good listener" },
+          { "q": "My dream vacation", "a": "A road trip across the USA" }
+        ]
+      }
+    },
+    "reenu":{
+      "id": "reenu",
+      "name": "Reenu",
+      "age": 24,
+      "version": 1,
+      "isPremium": false,
+      "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/reenu/still_1.mp4",
+      "totalSize": 16093303,
+      "profile": {
+        "age": 24,
+        "tagline": "I'm not a bitch, I'm a siren",
+        "photos": ["profile_1.webp", "profile_2.webp", "profile_3.webp", "profile_4.webp", "profile_5.webp"],
+        "vitals": {
+          "height": "5'4\"",
+          "location": "Kerala, India",
+          "education": "B.Tech",
+          "drinking": "Socially",
+          "smoking": "Non-smoker",
+          "relationship": "Monogamy",
+          "children": "No",
+          "gender": "Woman",
+          "orientation": "Straight"
+        },
+        "prompts": [
+          { "q": "The way to win me over", "a": "By being intelligent and not posting half-naked pics on a dating app 😮" }
+        ]
       }
     }
   }
