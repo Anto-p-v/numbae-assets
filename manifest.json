@@ -8,7 +8,7 @@
       "version": 1,
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/ashley/still_1.mp4",
-      "totalSize": 17674640,
+      "totalSize": 21518118,
       "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/ashley/",
       "files": {
         "still": ["still_1.mp4"],
@@ -17,7 +17,10 @@
         "your_turn": ["your_turn_1.mp4", "your_turn_2.mp4", "your_turn_3.mp4"],
         "system_turn": ["system_turn_1.mp4"],
         "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
-        "system_win": ["system_win_1.mp4", "system_win_2.mp4"]
+        "system_win": ["system_win_1.mp4", "system_win_2.mp4"],
+        "moves": ["stone.mp4", "paper.mp4", "scissor.mp4"],
+        "gifts": ["beach_selfie.webp", "private_selfie.webp", "private_selfie_1.webp", "private_selfie_2.webp", "ultimate_selfie.webp"],
+        "final_gift": ["kiss.mp4"]
       },
       "profile": {
         "age": 27,
@@ -48,7 +51,7 @@
       "version": 1,
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/jake/still_1.mp4",
-      "totalSize": 16093303,
+      "totalSize": 19217757,
       "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/jake/",
       "files": {
         "still": ["still_1.mp4"],
@@ -57,12 +60,15 @@
         "your_turn": ["your_turn_1.mp4", "your_turn_2.mp4"],
         "system_turn": ["system_turn_1.mp4", "system_turn_2.mp4", "system_turn_3.mp4"],
         "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
-        "system_win": ["system_win_1.mp4", "system_win_2.mp4", "system_win_3.mp4"]
+        "system_win": ["system_win_1.mp4", "system_win_2.mp4", "system_win_3.mp4"],
+        "moves": ["stone.mp4", "paper.mp4", "scissor.mp4"],
+        "gifts": ["beach_selfie.webp", "private_selfie_1.webp", "private_selfie_2.webp", "ultimate_selfie.webp"],
+        "final_gift": ["kiss.mp4"]
       },
       "profile": {
         "age": 24,
         "tagline": "looking for a FWB",
-        "photos": ["profile_1.webp", "profile_2.webp", "profile_3.webp", "profile_4.webp", "profile_5.webp"],
+        "photos": ["profile_1.webp", "profile_2.webp", "profile_3.webp", "profile_4.webp"],
         "vitals": {
           "height": "6'0\"",
           "location": "California, USA",
@@ -88,8 +94,20 @@
       "version": 1,
       "isPremium": false,
       "previewUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/reenu/still_1.mp4",
-      "totalSize": 16093303,
+      "totalSize": 16333503,
       "baseUrl": "https://raw.githubusercontent.com/Anto-p-v/numbae-assets/main/characters/reenu/",
+      "files": {
+        "still": ["still_1.mp4"],
+        "higher": ["higher_1.mp4", "higher_2.mp4", "higher_3.mp4"],
+        "lower": ["lower_1.mp4", "lower_2.mp4"],
+        "your_turn": ["your_turn_1.mp4", "your_turn_2.mp4"],
+        "system_turn": ["system_turn_1.mp4"],
+        "user_win": ["user_win_1.mp4", "user_win_2.mp4"],
+        "system_win": ["system_win_1.mp4"],
+        "moves": ["stone.mp4", "paper.mp4", "scissor.mp4"],
+        "gifts": ["beach_selfie.webp", "private_selfie_1.webp", "private_selfie_2.webp", "ultimate_selfie.webp"],
+        "final_gift": ["kiss.mp4"]
+      },
       "profile": {
         "age": 24,
         "tagline": "we can be little touchy touchyy",
