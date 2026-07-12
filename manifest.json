@@ -19,7 +19,7 @@
         "user_win": ["user_win_1.mp4", "user_win_2.mp4", "user_win_3.mp4"],
         "system_win": ["system_win_1.mp4", "system_win_2.mp4"],
         "moves": ["stone.mp4", "paper.mp4", "scissor.mp4"],
-        "gifts": ["beach_selfie.webp", "private_selfie.webp", "private_selfie_1.webp", "private_selfie_2.webp", "ultimate_selfie.webp"],
+        "gifts": ["beach_selfie.webp", "private_selfie_1.webp", "private_selfie_2.webp", "ultimate_selfie.webp"],
         "final_gift": ["kiss.mp4"]
       },
       "profile": {
